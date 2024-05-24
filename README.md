@@ -1,2 +1,3 @@
 # BigData
-En este repositorio encontraras todo relacionado con el Libro de eseñanza aprendizaje de big data.
+
+En este repositorio encontraras todos los archivos para el "Manual didáctico para la enseñanza aprendizaje de Big Data y análisis de datos"
